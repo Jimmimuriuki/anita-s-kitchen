@@ -19,9 +19,7 @@
   margin-right: auto;
   }
   #hat{
-    display: block;
-    margin-left: auto;
-    margin-right: 10%;
+    text-align: center;
   }
 #strip{
   margin-top: 5%;
@@ -38,4 +36,60 @@
 }
 #fastfood2{
   width: 200px;
+}
+#infix{
+  background-position: center;
+  background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+#bfast{
+  height: 119px;
+  width: 300px;
+  background-image: url("../img/assets/foodtop/breakfast.jpg");
+  margin-left: auto;
+  margin-right: auto;
+
+}
+#lunch{
+  height: 119px;
+  width: 300px;
+  background-image: url("../img/assets/foodtop/lunch.jpg");
+  margin-left: auto;
+  margin-right: auto;
+}
+#dinner{
+  height: 119px;
+  width: 300px;
+    background-image: url("../img/assets/foodtop/dinner.jpg");
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+  text-align: center;
+  vertical-align: bottom;
+  line-height: 100px;
+  font-style: italic;
+  font-size: 170%;
+  color: white;
+}
+#skrr{
+  height: 119px;
+  width: 300px;
+}
+#r1{
+  background-color: grey;
+  height: 59.5px;
+}
+#r2{
+  background-color: orange;
+  height: 59.5px;
+}
+.text2{
+  text-align: center;
+  vertical-align: bottom;
+  line-height: 50px;
+  font-size: 130%;
+  color: white;
+  font-style: oblique;
 }
