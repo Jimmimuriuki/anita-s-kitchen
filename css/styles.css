@@ -1,0 +1,41 @@
+#intro{
+  background-attachment: fixed;
+  background-image: url("../img/assets/backgrounds/landing.jpg");
+  background-position: center;
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+}
+#strop{
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+.ff{
+  font-size: 112%;
+}
+.centre{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  #hat{
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+  }
+#strip{
+  margin-top: 5%;
+  margin-bottom:5%;
+}
+.drink1{
+  height: 250px;
+}
+.drink2{
+  height: 250px;
+}
+#fastfood1{
+  width: 200px;
+}
+#fastfood2{
+  width: 200px;
+}
